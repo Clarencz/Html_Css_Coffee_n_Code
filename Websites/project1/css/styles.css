@@ -1,4 +1,13 @@
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 1.25rem;
+  color: #b535a8;
+}
+header {
+  text-align: center;
+}
 h1 {
+  font: size 7rem;
   color: #4676a9;
   text-align: center;
 }
